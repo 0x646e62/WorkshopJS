@@ -53,6 +53,13 @@ npm i express zod pino pino-pretty jsonwebtoken bcryptjs class-validator class-t
 npm i -D tsx ts-node nodemon
 npm i -D @types/node @types/express @types/jsonwebtoken @types/cors @types/morgan
 npm i -D prisma vitest supertest @types/supertest
-npm i -D eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin eslint-confing-prettier
+npm i -D eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin eslint-config-prettier
 npm i -D husky prettier lint-staged
+```
+
+5. Inicializar Prisma
+
+```bash
+npx prisma init
+
 ```
