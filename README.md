@@ -47,3 +47,12 @@
 
     npx tsc --init
 ```
+
+```bash
+npm i express zod pino pino-pretty jsonwebtoken bcryptjs class-validator class-transform reflect-metadata cors dotenv morgan @prisma/client
+npm i -D tsx ts-node nodemon
+npm i -D @types/node @types/express @types/jsonwebtoken @types/cors @types/morgan
+npm i -D prisma vitest supertest @types/supertest
+npm i -D eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin eslint-confing-prettier
+npm i -D husky prettier lint-staged
+```
